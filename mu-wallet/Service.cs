@@ -11,5 +11,11 @@ namespace mu_wallet
         {
             return true;
         }
+
+        public bool Update_DB(string account_No,int balance)
+        {
+            connectionDatabase con = new connectionDatabase();
+            return con.updateData("ACCOUNTS", "Balance=" + balance, "Account_No like '"+account_No+"'");
+        }
     }
 }
