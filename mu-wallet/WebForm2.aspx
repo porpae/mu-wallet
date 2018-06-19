@@ -60,29 +60,31 @@
     
     <div class="col-sm-9">
       <div class="well">
-        <h4>โอนเงิน</h4>
-        <form action="/WebForm2.aspx" method="get">
+        <h4>โอนเงิน</h4><br />
+        <tr align="center">
+            <td>โอนเงินสำเร็จ</td></tr>
+        <form >
 
           <table width="400">
             <tr height="10">
+                
               <td>บัญชีผู้โอน</td> 
-              <td><input type="text" name="account_transfer"></td>
+              <td><label for="account_transfer"> 123-456-789 (Akanit)</td>
             </tr>
             <tr>
               <td>บัญชีผู้รับโอน</td>
-              <td><input type="text" name="account_receive"></td>
+              <td><label for="account_receive"> 234-567-123 (Somboon)</td>
             </tr>
             <tr>
               <td>จำนวนเงินที่โอน</td>
-              <td><input type="text" name="amount_transfer"></td>
+              <td><label for="amount_transfer"> 1,000 บาท</td>
             </tr>
           </table>
           
         <!--<input type="submit" value="Submit">
           <input type="submit" value="Submit_ok"-->
           <div align="center">
-          <button type="button" onclick="alert('แน่ใจน่ะที่จะยกเลิก')">ยกเลิก</button>
-          <button type="submit">ตกลง</button>
+          <button type="button" onclick="alert('กลับสู่เมนูหลัก')">ตกลง</button>
         </div>
         </form>
         
