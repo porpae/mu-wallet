@@ -13,7 +13,7 @@ namespace mu_wallet
     {
         //20131112 somboon ติดต่อฐานข้อมูล
         /*--------------------SQL------------------------*/
-        string strConnString = "Server=localhost;UID=root; PASSWORD=1234;Database=RFID-DB;Max Pool Size=9000000;Connect Timeout=9000000;";
+        string strConnString = "Server=10.98.94.140;UID=; PASSWORD=1234;Database=RFID-DB;Max Pool Size=9000000;Connect Timeout=9000000;";
 
         /// <ConnectDB details>
         /// Method Name(ชื่อเมธอด) :ConnectDB

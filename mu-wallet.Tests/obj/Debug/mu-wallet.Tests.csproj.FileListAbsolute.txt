@@ -1,0 +1,11 @@
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\obj\Debug\mu-wallet.Tests.csprojAssemblyReference.cache
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\obj\Debug\mu-wallet.Tests.csproj.CoreCompileInputs.cache
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\bin\Debug\mu-wallet.Tests.dll
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\bin\Debug\mu-wallet.Tests.pdb
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\bin\Debug\mu-wallet.dll
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\bin\Debug\mu-wallet.pdb
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\bin\Debug\mu-wallet.dll.config
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\obj\Debug\mu-wallet.Tests.csproj.CopyComplete
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\obj\Debug\mu-wallet.Tests.dll
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet.Tests\obj\Debug\mu-wallet.Tests.pdb

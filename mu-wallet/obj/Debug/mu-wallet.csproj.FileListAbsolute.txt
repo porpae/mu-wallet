@@ -29,6 +29,8 @@ C:\Users\Porpae\Desktop\mu-wallet\mu-wallet\bin\mu-wallet.dll
 C:\Users\Porpae\Desktop\mu-wallet\mu-wallet\bin\mu-wallet.pdb
 C:\Users\Porpae\Desktop\mu-wallet\mu-wallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Porpae\Desktop\mu-wallet\mu-wallet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Porpae\Desktop\mu-wallet\mu-wallet\obj\Debug\mu-wallet.csprojResolveAssemblyReference.cache
 C:\Users\Porpae\Desktop\mu-wallet\mu-wallet\obj\Debug\mu-wallet.dll
 C:\Users\Porpae\Desktop\mu-wallet\mu-wallet\obj\Debug\mu-wallet.pdb
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet\obj\Debug\mu-wallet.csprojAssemblyReference.cache
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet\obj\Debug\mu-wallet.csproj.CoreCompileInputs.cache
+C:\Users\porpae\Desktop\mu-wallet\mu-wallet\obj\Debug\mu-wallet.csproj.CopyComplete
